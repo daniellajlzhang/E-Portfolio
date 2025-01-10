@@ -2,31 +2,21 @@
 title: "Daniella Zhang's E-Portfolio"
 image: images/headshot.png
 about: Hey! I’m an environmental manager and incoming MSc student passionate about climate change adaptation in urban areas. In Canada, flooding and wildfires present an immense and growing threat to cities. Climate change exacerbated natural disasters are experienced disproportionally across communities, deepening environmental injustices. My work is guided by three big-picture goals
-
-1️⃣ Understanding the biophysical science behind climate change and predicted impacts through applied research 🧪
-
-2️⃣ Connecting science and policy to produce practical, multi-scale, and collaborative management outcomes 🌐
-
-3️⃣ Ensuring that climate resiliency initiatives are carried out in a transparent, inclusive, and equitable manner across stakeholders, whilst leveraging existing partnerships 🌱
-
-I strongly believe in systems thinking and addressing climate change from an interdisciplinary perspective. Always looking for new ideas and collaboration opportunities! Feel free to send me a message, would love to chat! 😃
-
-📍Currently working on the ancestral and unceded homelands of the kʷikʷəƛ̓əm (Kwikwetlem), səlilwətaɬ (Tsleil-Waututh), xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), q̓ic̓əy̓ (Katzie),qʼʷa:n̓ ƛʼən̓ (Kwantlen), qiqéyt (Qayqayt), and Stó:lō (Sto:lo) Peoples, and extends my appreciation for the opportunity to work on this territory.
-  template: trestles
-  image-width: 20em
-  links: 
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/daniellazhang/
-    - icon: instagram
-      text: Instagram
-      href: https://www.instagram.com/daniella_zhang/
-    - icon: github
-      text: GitHub
-      href: https://github.com/daniellajlzhang
-    - icon: envelope-at
-      text: Email
-      href: daniellajlzhang@gmail.com
+template: trestles
+image-width: 20em
+links: 
+- icon: linkedin
+  text: LinkedIn
+  href: https://www.linkedin.com/in/daniellazhang/
+- icon: instagram
+  text: Instagram
+  href: https://www.instagram.com/daniella_zhang/
+- icon: github
+  text: GitHub
+  ref: https://github.com/daniellajlzhang
+- icon: envelope-at
+  text: Email
+  href: daniellajlzhang@gmail.com
 ---
 
 Hey there,
