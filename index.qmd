@@ -1,7 +1,7 @@
 ---
 title: "Daniella Zhang's E-Portfolio"
 image: images/headshot.png
-about: Hey! I’m an environmental manager and incoming MSc student passionate about climate change adaptation in urban areas. In Canada, flooding and wildfires present an immense and growing threat to cities. Climate change exacerbated natural disasters are experienced disproportionally across communities, deepening environmental injustices. My work is guided by three big-picture goals: 
+about: Hey! I’m an environmental manager and incoming MSc student passionate about climate change adaptation in urban areas. In Canada, flooding and wildfires present an immense and growing threat to cities. Climate change exacerbated natural disasters are experienced disproportionally across communities, deepening environmental injustices. My work is guided by three big-picture goals
 
 1️⃣ Understanding the biophysical science behind climate change and predicted impacts through applied research 🧪
 
